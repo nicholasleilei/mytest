@@ -3,7 +3,7 @@ package com;
 public class MyTest {
     public void name() {
 
-		System.out.println("11111我自己的空间我说的算ok");
+		System.out.println("111211我自己的空间我说的算ok");
 //我对
 /*
  * 出现了冲突
